@@ -1,3 +1,5 @@
+All variables in Solidity are initialized with their default value. There is no undefined or null!
+
 Interacting with Booleans
 -------------------------
 
