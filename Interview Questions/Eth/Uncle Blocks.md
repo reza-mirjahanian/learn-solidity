@@ -1,0 +1,1 @@
+"uncle block" is a block that was mined but not included in the main chain because another block at the same height was added first. Ethereum rewards miners for these uncle blocks to incentivize mining and improve security. In this case, you might be referring to a list of uncle blocks in a blockchain network.
